@@ -1,0 +1,1 @@
+This code is for part 2 of the PDF file "Deep Pricing...". It includes the use of finite difference methods for pricing American puts and neural networks for deep pricing. This code is intended for educational purposes only. Please do not copy it if you encounter similar assignments, as all submissions are checked by the Turnitin plagiarism detection system.
